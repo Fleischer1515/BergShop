@@ -1,0 +1,2 @@
+# BergShop
+.net angular project 
